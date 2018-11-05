@@ -60,14 +60,14 @@ input: GFM                            # use Github Flavored Markdown !important
 # disqus_username: qiubaiying
 
 # Gitalk
-  gitalk:
+gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: copyfree.github.io    #仓库名称
   owner: copyfree    #github用户名
   admin: copyfree
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
 # 统计
@@ -78,7 +78,7 @@ input: GFM                            # use Github Flavored Markdown !important
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: gittab.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: copyfree.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -104,10 +104,6 @@ friends: [
         title: "BinGo姐",
         href: "https://www.cometogo.club/"
     },
-    {
-        title: "GitTab",
-        href: "https://gittab.cn/"
-    }
     {
         title: "沟渠网",
         href: "https://gotolink.cn/"
