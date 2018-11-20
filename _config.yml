@@ -98,7 +98,7 @@ service-worker: true
 friends: [
     {
         title: "GitHub",
-        href: "https://github.com/tearstea"
+        href: "https://github.com/sweattea"
     },
     {
         title: "BinGo姐",
