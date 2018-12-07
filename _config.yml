@@ -1,9 +1,9 @@
 ﻿# Site settings
 title: 天黑了
-SEOTitle: 天黑了——最简洁的诗词歌赋网站
+SEOTitle: 天黑了---最简洁的诗词歌赋网站
 header-img: img/home.jpg
 email: longtolink@163.com
-description: "努力是迈向成功的开始!"
+description: "天黑了——专为诗词歌赋爱好者打造的简洁网站，在这里没有广告，没有打扰，只有安静的文字！包含了从古至今，从国内到国外最优秀的篇章！"
 keyword: "诗的国度，古典名篇、古诗、爱情诗"
 url: "http://copyfree.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
