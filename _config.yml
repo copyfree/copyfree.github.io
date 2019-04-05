@@ -100,12 +100,12 @@ friends: [
         title: "GitHub",
         href: "https://github.com/tearstea"
     },
+    # {
+    #     title: "BinGo姐",
+    #     href: "https://www.cometogo.club/"
+    # },
     {
-        title: "BinGo姐",
-        href: "https://www.cometogo.club/"
-    },
-    {
-        title: "GitTab Blog",
+        title: "GitTab",
         href: "https://gittab.cn/"
     },
     {
